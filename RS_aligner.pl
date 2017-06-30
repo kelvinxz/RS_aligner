@@ -1,7 +1,7 @@
 ############################################################
 #
 # RS_aligner.pl
-# - Reap-Seq Aligner: An aligner to algin antibody oligo reads to a dictionary
+# - Reap-Seq Aligner: An aligner to align antibody oligo reads to a dictionary
 #    
 # by Kelvin Zhang
 # 

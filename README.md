@@ -1,5 +1,5 @@
 # RS_aligner
-An aligner to algin antibody oligo reads to an antibody dictionary
+An aligner to align antibody oligo reads to an antibody dictionary
 
 ## Using RS_alinger
 
@@ -13,4 +13,4 @@ Usage: perl RS_aligner.pl -i YOUR_SAM_FILE -d DICTIONARY -oname OUTPUT_PREFIX -m
 
 ## An example: 
 
-perl RS_aligner.pl -i MytTest.sam -d Antibody_oligo_sequence_dictionary.fa -oname MyTest -m 1
+perl RS_aligner.pl -i MyTest.sam -d Antibody_oligo_sequence_dictionary.fa -oname MyTest -m 1
